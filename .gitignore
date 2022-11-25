@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# __REMOVE_FROM_HERE
+# Everything below here will be removed when the
+# example is used to create a new app
+
+# keep the package manager generic
+package-lock.json
