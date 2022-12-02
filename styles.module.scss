@@ -1,0 +1,13 @@
+@import "theme";
+
+.hello {
+  font: 15px $font-family;
+  background: $background-color;
+  color: $text-color;
+  padding: $padding-main;
+  text-align: center;
+  transition: 100ms ease-in background;
+}
+.hello:hover {
+  background: #ccc;
+}
